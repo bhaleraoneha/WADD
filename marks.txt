@@ -1,0 +1,15 @@
+1st-Sem                2nd-Sem
+IN_SEM                 UnitTest(2) 
+DM-29                  CG-19
+LDCO-28                PA-25
+DSA-24                 DBMS-28
+OOP-28                 SE-26
+BCN-25                 M3-
+
+END_SEM
+DM-23
+LDCO-33
+DSA-34
+OOP-43
+BCN-47
+
